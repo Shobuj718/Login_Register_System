@@ -1,6 +1,6 @@
 <?php 
 	
-	//logout file
+	
 	session_start();
 	require_once "functions.php";
 
